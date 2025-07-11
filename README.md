@@ -3,5 +3,5 @@ The Chaos-Lite Platform
 Chaos Project Lite
 Less Fuss
 Flat routing
-Mostly Satic
+Mostly Static
 Want data? Get Chaos
